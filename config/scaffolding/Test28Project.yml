@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/Munatri
   gitUsername: Munatri
   gitBranch: main
+- name: TestRepo1
+  gitServerName: PT
+  gitUrl: https://github.com/Pratibha24
+  gitUsername: Pratibha24
+  gitBranch: main
