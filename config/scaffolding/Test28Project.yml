@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test28Project
+  gitServerName: GithubOrigin
+  gitUrl: https://github.com/Munatri/Test28Project
+  gitUsername: Munatri
+  gitBranch: main
